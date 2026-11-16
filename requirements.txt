@@ -1,0 +1,5 @@
+# Direct runtime dependencies for PenguinMedic.
+langgraph==1.2.21
+openai==3.49.0
+pydantic==2.14.3
+python-dotenv==1.2.4
